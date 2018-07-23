@@ -1,0 +1,37 @@
+﻿create_document A4 10 10 62 35
+create_table 4 4 570 0
+cell_data " A  A "
+cell_data_input 
+cell_data " A B "
+cell_data " تطبيق ورقة"
+cell_data " A B "
+cell_data " "
+cell_data " A B "
+cell_data " "
+cell_data " A B "
+cell_data " "
+cell_data " A B "
+cell_data " "
+cell_data " A B "
+cell_data " "
+cell_data " A B "
+cell_data " "
+blank_line
+para_write CENTRE NORMAL 15 BLUE " भारत JLG SANCTION LETTER "
+blank_line
+create_table 1 1 70 1000000
+cell_data " Serial No "	 
+insert_company_logo 15 36 72 36 18	 		
+insert_bank_officials_signature 50 36 130 36 320
+blank_line
+para_write LEFT BOLD 15 ORANGE " YES Bank Ltd is pleased to sanction loan facility of Rs _ interest rate at reducing balance repayable _ as per the repayment schedule from the date of disbursement for the purpose of _ against the application received on _ "
+blank_line
+blank_line
+blank_line
+blank_line
+para_write LEFT NORMAL 12 RED " DATE : "
+blank_line
+para_write LEFT NORMAL 13 BLACK " ----------------------------------------------------------------------------------------------------------------------------------------------- "
+blank_line
+para_write CENTRE NORMAL 13 MAGENTA " Thank You Visit Again "
+para_write LEFT NORMAL 12 RED " Terms & Conditions           1. Loan processing fee of on disbursed amount along with service tax and insurance charges of  Rs. will be deducted from the disbursal amount and net amount will be credited to  2. The Borrower shall not use the loan amount (or any part thereof) for any purpose other than the purpose specified herein i.e.  or for any speculative, improper or illegal or unlawful purposes/activities.  3. The Joint Liability Group and all of its members shall be jointly and severally liable for repayment of the loan and applicable interest to YES Bank in installments on the due date(s) as decided by YES Bank and for strict compliance with all of the terms and conditions.  4. The Borrower agrees and acknowledges that the Bank has appointed  as its Business Correspondent (BC) to handle and manage the loan and related transactions (execution of loan documents, disbursal of loan, collection of repayment installment etc.) with me on behalf of the Bank. The borrower hereby author "  

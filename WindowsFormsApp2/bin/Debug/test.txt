@@ -1,0 +1,44 @@
+﻿create_document 
+insert_image 15 36 72 36 72
+blank_line
+blank_line
+create_table 4 4 570 9
+cell_data " A  A "
+cell_data " ನಿಶ್ಚಾಯ್  "
+cell_data " A B "
+cell_data " ನಿಶ್ಚಾಯ್  "
+cell_data " A B C "
+cell_data " ನಿಶ್ಚಾಯ್   "
+cell_data " A B D "
+cell_data " ನಿಶ್ಚಾಯ್  "
+cell_data " A B "
+cell_data " done  "
+cell_data " A B "
+cell_data " atyati why u block hotstar"
+cell_data " A B "
+cell_data " lets make the world "
+cell_data " A B "
+cell_data " MJ "
+blank_line
+create_table 1 1 12 12
+cell_data " input "	 
+para_write CENTRE NORMAL 25 BLUE " ಎಸ್ .ಎಮ್.ಎಸ್ ಮುಖಾಂತರ ಪ್ರಮಾಣ कारपार्किं ग   ಎಸ್ .ಎಮ್.ಎಸ್ ಮುಖಾಂತರ ಪ್ರಮಾಣ कारपार्किं   "
+blank_line
+create_table 3 3 D 2
+cell_data " sl No "
+cell_data " first name "
+cell_data " last name "
+cell_data " #input# "
+blank_line
+blank_line	 		
+insert_image 50 36 130 36 320
+blank_line
+para_write CENTRE NORMAL 5 BLACK "  YES JLG SANCTION #amount# LETTER  YES #balance# JLG SANCTION #purpose# LETTER #id# "
+blank_line
+blank_line
+para_write LEFT NORMAL 12 RED " DATE : "
+blank_line
+para_write LEFT NORMAL 13 BLACK " ----------------------------------------------------------------------------------------------------------------------- "
+blank_line
+para_write CENTRE NORMAL 13 MAGENTA "   YES JLG SANCTION #amount# LETTER  YES #balance# JLG SANCTION #purpose# LETTER #id# Thank You Visit Again "
+para_write LEFT NORMAL 12 RED " Terms & Conditions           1. Loan processing fee of on disbursed amount along with service tax and insurance charges of  Rs. will be deducted from the disbursal amount and net amount will be credited to  2. The Borrower shall not use the loan amount (or any part thereof) for any purpose other than the purpose specified herein i.e.  or for any speculative, improper or illegal or unlawful purposes/activities.  3. The Joint Liability Group and all of its members shall be jointly and severally liable for repayment of the loan and applicable interest to YES Bank in installments on the due date(s) as decided by YES Bank and for strict compliance with all of the terms and conditions.  4. The Borrower agrees and acknowledges that the Bank has appointed  as its Business Correspondent (BC) to handle and manage the loan and related transactions (execution of loan documents, disbursal of loan, collection of repayment installment etc.) with me on behalf of the Bank. The borrower hereby author "  
